@@ -39,10 +39,10 @@ A simple Employee REST Api built using SpringBoot
     spring.datasource.password=PASSWORD
     server.servlet.context-path=/REST_APIPATH
     ```
- Replcae the DATABASE_NAME with the database you have created of your choice using MYSQL. Similary you need to mention the USER_NAME and PASSWORD of MySql. 
+   Replcae the DATABASE_NAME with the database you have created of your choice using MYSQL. Similary you need to mention the USER_NAME and PASSWORD of MySql. 
 7) Now you are good to go , to Start the project in your favourite IDE(recommended STS)by running the project as
-   -  maven build
-   -  run as springboot app
+    -  maven build
+    -  run as springboot app
 8) Once the project is running successfully now you can test different HTTP method with the help of Postman tool. Few screenshots are attached below for reference. 
 ![Screenshot (1617)](https://user-images.githubusercontent.com/61947484/150727419-3a8a6c0a-8d27-4600-9554-40afbfcd3380.png)
 ![Screenshot (1619)](https://user-images.githubusercontent.com/61947484/150727540-79703c48-e534-4116-ac5d-525abbfe2794.png)
